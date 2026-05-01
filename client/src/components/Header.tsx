@@ -11,7 +11,6 @@ export function Header() {
     { label: "Destinations", href: "/#destinations" },
     { label: "About", href: "/about" },
     { label: "Case Study", href: "/case-study" },
-    { label: "Contact", href: "/contact" },
   ];
 
   return (
